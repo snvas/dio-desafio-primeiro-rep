@@ -1,0 +1,9 @@
+Tipos de Estruturas
+
+Vetores
+Matrizes
+Pilhas
+Listas
+Árvore
+Tabela Hash
+Grafo
